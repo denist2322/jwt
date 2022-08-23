@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS `jwt`;
+CREATE DATABASE `jwt`;
+USE `jwt`;
+
